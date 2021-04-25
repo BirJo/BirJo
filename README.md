@@ -5,7 +5,7 @@ and I live in the EU. Currently.
 I am also interested in mathematics, AI, automotive engineering.
 
 - 🌱 I’m currently learning
-to manage monex better - for this I am playing with different APIs and financial maths.
+to manage money better - for this I am playing with different APIs and financial maths.
 
 - 💞️ I’m looking to collaborate on SI application in automotive security.
 
